@@ -1,0 +1,4 @@
+Spelling correcter based off of http://norvig.com/spell-correct.html
+
+Uses this training set http://norvig.com/big.txt
+
